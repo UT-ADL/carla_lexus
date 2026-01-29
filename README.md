@@ -1,9 +1,9 @@
 # Tutorial
  ## Adding UT Lexus car to prebuilt Carla
-- Download the [utlexus.tar.gz]([https://github.com/UT-ADL/carla_lexus/releases/download/v0.9.15.tar.gz/carla_lexus-0.9.15.tar.gz](https://github.com/UT-ADL/carla_lexus/releases/download/v0.9.15/utlexus.tar.gz)) car.
-- Copy carla_lexus-0.9.15.tar.gz inside the import folder under Carla's ROOT directory.
+- Download the [utlexus.tar.gz](https://github.com/UT-ADL/carla_lexus/releases/download/v0.9.15/utlexus.tar.gz).
+- Copy utlexus.tar.gz inside the import folder under Carla's ROOT directory.
 - Run ./ImportAssets.sh from the ROOT directory.
-- You can now delete the carla_lexus-0.9.15.tar.gz file from the import folder.
+- You can now delete the utlexus.tar.gz file from the import folder.
  ## Running UT Lexus car with traffic on prebuilt Carla
 From the ROOT directory run:
 - ./CarlaUE4.sh
